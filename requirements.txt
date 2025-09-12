@@ -1,0 +1,19 @@
+# data handling
+pandas
+numpy
+
+# graph construcution & analytics
+networkx
+python-louvain
+scipy
+
+# visualization
+pyvis
+matplotlib
+seaborn
+
+# jyputer notebook
+notebook
+
+# others
+tqdm

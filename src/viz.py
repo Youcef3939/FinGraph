@@ -73,7 +73,7 @@ def visualize_graph(G):
     html_content = net.generate_html()
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"🔥 Interactive graph saved to {output_file}!")
+    print(f"🔥 interactive graph saved to {output_file}!")
 
     webbrowser.open('file://' + os.path.realpath(output_file))
 

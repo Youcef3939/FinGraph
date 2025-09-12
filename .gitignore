@@ -45,7 +45,6 @@ data/*.xlsx
 data/*.sqlite
 
 *.html
-*.png
 *.svg
 
 Thumbs.db

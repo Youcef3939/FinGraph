@@ -90,36 +90,6 @@ this pipeline transforms raw financial data into an actionable **knowledge graph
 
 ETL ---> graph ---> analytics ---> visualization
 
-
----
-
-
-## 📁 project structure
-
-FinGraph/
-|
-|--data/
-|   |--companies.csv  # company metadata: ticker,name,sector,country,market-cap
-|   |--supply_edges.csv # edges: supplier,customer,weight
-|
-|
-|--notebooks/
-|   |--demo.ipynb # full workflow
-|
-|
-|--src/
-|   |--etl.py # load CSVs,clean data,build networkX graph
-|   |--analytics.py # centrality,community detection, contagion simulation
-|   |--viz.py # PyVis interactive graph generation
-|   |--contagion.py # bases a risk for each node and compute its risk
-|
-|--README.md
-|
-|--requirements.txt
-|
-|--.gitignore
-
-
 ---
 
 ## 🚀 getting started

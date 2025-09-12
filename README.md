@@ -98,17 +98,17 @@ ETL ---> graph ---> analytics ---> visualization
 
 ```bash```
 
-. git clone https://github.com/Youcef3939/FinGraph.git
+- git clone https://github.com/Youcef3939/FinGraph.git
 
-. cd FinGraph
+- cd FinGraph
 
 2. **install dependencies**
 
-. pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3. **run the demo notebook**
 
-. open /notebooks/demo.ipynb in jupyter to:
+- open /notebooks/demo.ipynb in jupyter to:
 
     . load data
 
@@ -152,19 +152,13 @@ interactive network graph:
 
 it transorms raw financial data into a dynamic, analyzable network thus enabling:
 
-. identification of hidden dependecies
+- identification of hidden dependecies
 
-. simulation of cascading failures in supply chains
+- simulation of cascading failures in supply chains
 
-. detection of systemically important companies before a crisis
+- detection of systemically important companies before a crisis
 
-. integration of news sentiment & events for real time insights
-
-
----
-
-IT'S THE ULTIMATE TOOL FOR ANALYSTS, RESEARCHERS, AND FINANCE PROFESSIONALS WHO WANT A DEEPER UNDERSTANDING OF FINANCIAL ECOSYSTEMS!     
-
+- integration of news sentiment & events for real time insights
 
 ---
 
@@ -182,4 +176,8 @@ special thanks to:
 
 - the broader financial analytics and graph ML communities whose research and tools inspired the core idea behind FinGraph
 
-if you used FinGraph or found it useful, consider starring the repo and contributing, your feedback helps make it better <3
+if you used FinGraph or found it useful, consider starring the repo and contributing, your feedback helps make it better <3 
+
+---
+
+IT'S THE ULTIMATE TOOL FOR ANALYSTS, RESEARCHERS, AND FINANCE PROFESSIONALS WHO WANT A DEEPER UNDERSTANDING OF FINANCIAL ECOSYSTEMS!   

@@ -22,7 +22,7 @@ this project bridges finance, data science, and network analysis, giving you ins
 
 ---
 
-## 🕸️ featurs
+## 🕸️ features
 
 - graph construction: build a graph of companies and their supply-chain relationships
 

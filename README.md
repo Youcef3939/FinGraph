@@ -27,7 +27,7 @@ this project bridges finance, data science, and network analysis, giving you ins
 - graph construction: build a graph of companies and their supply-chain relationships
 
 - centrality metrics: identify systemically important companies using PageRank, betweenness, and eigenvector centrality
-
+ 
 - community detection: detect clusters of companies using the Louvain algorithm
 
 - contagion simulation: simulate financial shocks through the network to see ripple effects

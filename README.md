@@ -45,7 +45,7 @@ FinGraph models the financial ecosystem as a **graph of companies and supply-cha
    - company metadata (`ticker`, `name`, `sector`, `country`, `market_cap`) is loaded  
    - supply-chain relationships (`supplier → customer`) are read as edges
 
-2. **graph construction:**  
+2. **graph construction:**   
    - entities become **nodes** and relationships become **edges** in a NetworkX graph  
    - additional metrics (centrality, community membership) are attached to nodes
 
